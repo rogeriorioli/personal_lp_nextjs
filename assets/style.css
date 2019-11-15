@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Mandali&display=swap');
+
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mandali', sans-serif;
+
+}
+
+.background {
+  background : url('./rogerio.jpg') no-repeat center center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+.overlay {
+  background: rgba(0, 0, 0, .8);
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.container {
+  max-width: 1600px;
+  margin: auto;
+}
+
+.profile {
+  color : #fff;
+  padding: 15px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  text-align: right;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+.profile h2 {
+    font-size:32px;
+    margin: 0;
+}
+.profile .subtitle {
+  font-size: 24px;
+  margin: 0;
+  line-height: 0;
+}
+
+.profile ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.profile .content-box {
+  padding: 15px 0; 
+  display: flow-root;
+}
+.profile .content-box  P{
+  padding: 15px 0; 
+  line-height: 1.2;
+  font-size: 18px;
+  max-width: 476px;
+  float: right;
+}
+.profile ul li {
+  display: inline-block;
+} 
+
+.profile ul li a {
+  color : #fff;
+  text-decoration: none;
+} 
+
+
+/* mobile style  */
+
+@media screen and (max-width : 468px) {
+  .profile {
+    width: 100%;
+    left: 50%;
+  }
+}
