@@ -10,7 +10,7 @@ const Overlay = () => (
       <Profile 
         title="Rogerio Orioli" 
         subtitle="Advertising Developer" 
-        content="Paulistano, Web Developer and Graphic Designer, in the short time skater and collector of Vinyl records. I like Music, technology, sports, gastronomy and movies. I do not refuse a good course, be with family and friends.I have great love for advertising, art and Javascript. " 
+        content="Paulistano, Web Developer and Graphic Designer whit solid knowledgment in Javascript and Wordpress , in the short time skater and collector of Vinyl records. I like Music, technology, sports, gastronomy and movies. I do not refuse a good course, be with family and friends.I have great love for advertising, art and Javascript. " 
         linkedin={'https://www.linkedin.com/in/rogeriorioli/'} 
         github={'https://github.com/rogeriorioli'} 
         twitter={'https://twitter.com/rogeriorioli'}

@@ -8,8 +8,8 @@ const Home = () => (
   
   <div>
     <Head 
-    title="Rogerio Orioli Advertising Developer" 
-    description="Paulistano, Web Developer and Graphic Designer, in the short time skater and collector of Vinyl records. I like Music, technology, sports, gastronomy and movies. I do not refuse a good course, be with family and friends.I have great love for advertising, art and Javascript."
+    title="Rogerio Orioli Web Devoloper" 
+    description="Paulistano, Web Developer and Graphic Designer, solid knowledgment in Javascript and Wordpress in the short time skater and collector of Vinyl records. I like Music, technology, sports, gastronomy and movies. I do not refuse a good course, be with family and friends.I have great love for advertising, art and Javascript."
       
     />
     <div className="background" 
