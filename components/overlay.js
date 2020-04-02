@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Profile from '../components/profile'
 // import { Container } from './styles';
 
@@ -14,7 +14,7 @@ const Overlay = () => (
         linkedin={'https://www.linkedin.com/in/rogeriorioli/'} 
         github={'https://github.com/rogeriorioli'} 
         twitter={'https://twitter.com/rogeriorioli'}
-        whatsapp={'https://api.whatsapp.com/send?phone=5511994838771'}
+        whatsapp={'https://api.whatsapp.com/send?phone=5511934708771'}
   
     />
     </div>
